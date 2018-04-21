@@ -1,2 +1,7 @@
-# sa_students_ms
-students microservice for software's architecture course
+# sa_courses_ms
+
+Microservice for Courses
+
+* Ruby
+* Ruby on Rails
+* MySQL
